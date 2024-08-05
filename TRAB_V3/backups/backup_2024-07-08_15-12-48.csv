@@ -1,0 +1,10 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em
+1,admin,admin@uol.com,$2y$10$SRRTrPworlyR9KApi0qdiuHZ9Rb73eGu6AFIXFk1PIzsxBSYtpf1W,0,,"2024-07-02 14:30:31"
+3,prof,professorjdefora@gmail.com,$2y$10$Zl29kirohGNj9Xz0SKoTauTbzGv22BgJLfVtu.ryvdHR3AlmECfbi,1,,"2024-07-03 16:09:12"
+4,aluno,aluno@teste.com,$2y$10$aNG0STByUwGeRH9E.WMzWuUXT2C2qxBPNeKipoTDGPDXUnMvnZrWK,1,,"2024-07-04 10:34:03"
+5,cris,cris@teste.com,$2y$10$zoUb2KTd/Y/QzcS2pmLYFuViZFLvwtlhADFTfDcSfkTDu5yY6hJ8a,0,,"2024-07-04 10:37:51"
+6,churros,churros@uol.com,$2y$10$bWt0Uf7aYQSVZk8xLpBXleG0LEhwgcUGYQPLbTIlt9k9YmhAJpsHu,1,,"2024-07-04 10:43:04"
+7,felipe,felipe@mengao.com,$2y$10$h4G.c2mSuwuJqUvWt12ceeYYViIhTxTganyT8Ig2dNMt/mS15h9OC,1,,"2024-07-04 10:50:29"
+8,ana,ana@uol.com,$2y$10$Z6a5RC5exkEtwzdsOmqzPuK5oqm4wX1Lq4rF87WqB8VmNpwguMaKi,1,,"2024-07-04 16:47:06"
+9,opa,opa@opa.com,$2y$10$cBH8D1KGlCBoqblas8764.lFK6I2kAQILr1r/jlE2QPOjFGBJrYQW,1,892016,"2024-07-07 21:59:06"
+11,ZAP,zaproxy@example.com,$2y$10$Zl29kirohGNj9Xz0SKoTauTbzGv22BgJLfVtu.ryvdHR3AlmECfbi,1,,"2024-07-07 23:23:27"
